@@ -1,0 +1,16 @@
+.header__points {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #194052;
+    margin-right: 36px;
+    text-decoration: none;
+}
+.header__points:last-child {
+    margin-right: 0;
+}
+.header__points:hover {
+    color: #34b3fd;
+}

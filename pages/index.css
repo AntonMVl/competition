@@ -2,3 +2,19 @@
 @import url(../vendor/normalize.css);
 /*Подключение fonts*/
 @import url(../vendor/fonts/fonts.css);
+
+/*Первый блок навигация*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__shell/header_shell.css);
+@import url(../blocks/header/__HotelBooking/header__HotelBooking.css);
+@import url(../blocks/header/__nav/header__nav.css);                   /*само меню*/
+@import url(../blocks/header/__points/header__points.css);
+@import url(../blocks/header/__button/header__button.css);             /*кнопка*/
+@import url(../blocks/header/__text-button/header__text-button.css);
+
+/*Второй блок. Обложка*/
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__shell/cover__shell.css);
+@import url(../blocks/cover/__columns/cover__columns.css);
+@import url(../blocks/cover/__info/cover__info.css);
+@import url(../blocks/cover/__image/cover__image.css);

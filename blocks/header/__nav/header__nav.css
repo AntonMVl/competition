@@ -1,0 +1,8 @@
+.header__nav {
+    max-width: 308px;
+    max-height: max-content;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex;
+    justify-content: space-between;
+}

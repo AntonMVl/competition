@@ -1,0 +1,8 @@
+.cover__image {
+    display: flex;
+    min-width: 588px;
+    min-height: 685px;
+    margin-top: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
