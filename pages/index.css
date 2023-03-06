@@ -1,0 +1,4 @@
+/*Подключение Normalize.css*/
+@import url(../vendor/normalize.css);
+/*Подключение fonts*/
+@import url(../vendor/fonts/fonts.css);
