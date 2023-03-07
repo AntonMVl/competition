@@ -23,7 +23,18 @@
 @import url(../blocks/cover/__columns/cover__columns.css);
 @import url(../blocks/cover/__info/cover__info.css);
 @import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__img/cover__img.css);
+@import url(../blocks/cover/__img/_position/cover__img_position_absolute.css); /*позиция картинки*/
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__button/cover__button.css);
 @import url(../blocks/cover/__text-button/cover__text-button.css);
+
+/*Третий блок. Двухэтажный дом в норвежском стиле*/
+@import url(../blocks/two-storey/__columns/two-storley__columns.css);
+@import url(../blocks/two-storey/__img/two-storley__img.css);
+@import url(../blocks/two-storey/__info/two-storey__info.css);
+@import url(../blocks/two-storey/__title/two-storey__title.css);
+@import url(../blocks/two-storey/__subtitle/two-storey__subtitle.css);
+@import url(../blocks/two-storey/__button/two-storey__button.css);
+@import url(../blocks/two-storey/__text-button/two-storey__text-button.css);
