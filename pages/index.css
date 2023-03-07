@@ -2,11 +2,17 @@
 @import url(../vendor/normalize.css);
 /*Подключение fonts*/
 @import url(../vendor/fonts/fonts.css);
-
+/*Подключение body, content, page*/
+@import url(../blocks/body/body.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
+/*Подключение link*/
+@import url(../blocks/link/link.css);
+@import url(../blocks/link/__button/link__button.css);
 /*Первый блок навигация*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__shell/header_shell.css);
-@import url(../blocks/header/__HotelBooking/header__HotelBooking.css);
+@import url(../blocks/header/__logo-name/header__logo-name.css);
 @import url(../blocks/header/__nav/header__nav.css);                   /*само меню*/
 @import url(../blocks/header/__points/header__points.css);
 @import url(../blocks/header/__button/header__button.css);             /*кнопка*/
@@ -14,7 +20,10 @@
 
 /*Второй блок. Обложка*/
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__shell/cover__shell.css);
 @import url(../blocks/cover/__columns/cover__columns.css);
 @import url(../blocks/cover/__info/cover__info.css);
 @import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__button/cover__button.css);
+@import url(../blocks/cover/__text-button/cover__text-button.css);

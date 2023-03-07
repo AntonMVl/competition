@@ -1,9 +1,7 @@
 .header__button {
-    max-width: 136px;
-    max-height: 47px;
-    background: #0E1734;
-    border-radius: 4px;
-}
-.header__button:hover {
-    background: #34b3fd;;
+    width: 136px;
+    height: 47px;
+    padding: 14px 16px;
+    box-sizing: border-box;
+    
 }

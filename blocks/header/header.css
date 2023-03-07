@@ -1,6 +1,7 @@
 .header {
     margin: 0 auto;
-    padding: 0 0;
-    max-width: 1440px;
-    min-height: 120px;
+    padding: 41px 120px 32px 120px;
+    max-width: 100%;
+    align-items: center;
+    box-sizing: border-box;
 }
