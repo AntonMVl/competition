@@ -1,9 +1,8 @@
 .cover__image {
     display: flex;
-    min-width: 588px;
-    min-height: 685px;
-    margin-top: auto;
-    margin-right: auto;
+    max-width: 588px;
     justify-content: space-between;
     position: relative;
+    box-sizing: border-box;
+    gap: 228px;
 }

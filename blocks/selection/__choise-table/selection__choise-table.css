@@ -3,5 +3,5 @@
     width: 100%;
     display: flex;
     gap: 24px;
-    flex-wrap: wrap;
+    box-sizing: border-box;
     }
