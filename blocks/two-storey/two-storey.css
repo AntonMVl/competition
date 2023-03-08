@@ -1,0 +1,6 @@
+.two-storey {
+    max-width: 100%;
+    display: flex;
+    gap: 126px;
+    padding: 80px 120px;
+}

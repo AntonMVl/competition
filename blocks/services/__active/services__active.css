@@ -1,0 +1,6 @@
+.services__active {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    gap: 126px;
+}

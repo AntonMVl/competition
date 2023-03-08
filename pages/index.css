@@ -31,10 +31,29 @@
 @import url(../blocks/cover/__text-button/cover__text-button.css);
 
 /*Третий блок. Двухэтажный дом в норвежском стиле*/
-@import url(../blocks/two-storey/__columns/two-storley__columns.css);
+@import url(../blocks/two-storey/two-storey.css);
 @import url(../blocks/two-storey/__img/two-storley__img.css);
 @import url(../blocks/two-storey/__info/two-storey__info.css);
 @import url(../blocks/two-storey/__title/two-storey__title.css);
 @import url(../blocks/two-storey/__subtitle/two-storey__subtitle.css);
 @import url(../blocks/two-storey/__button/two-storey__button.css);
 @import url(../blocks/two-storey/__text-button/two-storey__text-button.css);
+/*Четвертый блок. Активности*/
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__active/services__active.css);
+@import url(../blocks/services/__info/services__info.css);
+@import url(../blocks/services/__title/services__title.css);
+@import url(../blocks/services/__text/services__text.css);
+@import url(../blocks/services/__image/services__image.css);
+@import url(../blocks/services/__info/_padding_top/services__info_padding_top.css);
+/*Пятый блок. Интерьер*/
+@import url(../blocks/interior/interior.css);
+@import url(../blocks/interior/__title/interior__title.css);
+@import url(../blocks/interior/__image-container/interior__image-container.css);
+@import url(../blocks/interior/__image/interior__image.css);
+@import url(../blocks/interior/__image/_grid-area_one/interior__image_grid-area_one.css);
+@import url(../blocks/interior/__image/_grid-area_two/interior__image_grid-area_two.css);
+@import url(../blocks/interior/__image/_grid-area_three/interior__image_grid-area_three.css);
+@import url(../blocks/interior/__image/_grid-area_four/interior__image_grid-area_four.css);
+
+
