@@ -7,3 +7,11 @@
     color: #848FAC;
     margin-bottom: 59px;
 }
+@media screen and (max-width: 767px) {
+    .cover__subtitle {
+        font-size: 16px;
+        text-align: center;
+        line-height: 1.2;
+        margin-bottom: 12px;
+    }   
+}

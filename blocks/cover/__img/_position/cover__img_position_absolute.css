@@ -3,3 +3,10 @@
     top: 81px;
     right: 204px;
 }
+/**/
+@media screen and (max-width: 767px) {
+    .cover__img_position_absolute {
+        top: 50px;
+        right: 108px;
+    }   
+}

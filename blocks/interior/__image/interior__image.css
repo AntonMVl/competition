@@ -1,3 +1,11 @@
 .interior__image {
     object-fit: cover;
 }
+/*как я думаю*/
+.interior__image {
+    width: 100%;
+}
+/*или можно использовать модификатор*/
+.interior__image:first-child{
+    height: 100%;    
+}

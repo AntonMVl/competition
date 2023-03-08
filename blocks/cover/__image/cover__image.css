@@ -6,3 +6,10 @@
     box-sizing: border-box;
     gap: 228px;
 }
+/**/
+@media screen and (max-width: 767px) {
+    .cover__image {
+        max-width: 319px;
+        gap: 113px;
+    }   
+}

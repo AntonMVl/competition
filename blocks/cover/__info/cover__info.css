@@ -1,4 +1,10 @@
 .cover__info {
     margin-top: 111px;
-    
+    max-width: 587px;
+}
+
+@media screen and (max-width: 767px) {
+    .cover__info {
+        margin-top: 50px;
+    }   
 }

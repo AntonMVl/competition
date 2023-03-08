@@ -1,6 +1,11 @@
 .selection__card-image {
-    max-width: 384px;
-    max-height: 489px;
+    /*max-width: 384px;
+    max-height: 489px;*/
     margin-bottom: 32px;
     object-fit: cover;
+}
+/*как я думаю*/
+.selection__card-image {
+    width: 100%;
+
 }

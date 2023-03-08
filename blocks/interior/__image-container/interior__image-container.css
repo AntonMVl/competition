@@ -2,11 +2,15 @@
     width: 100%;
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: minmax(1090px, 1fr) minmax(344px, 1fr);
+    /*grid-template-columns: minmax(1090px, 1fr) minmax(344px, 1fr);*/
     grid-template-rows: repeat(3, 1fr);
     gap: 3px;
     grid-template-areas:
     "item1 item2"
     "item1 item3"
     "item1 item4";
+}
+/*как я думаю*/
+.interior__image-container {
+    grid-template-columns: 3fr 1fr ;
 }
