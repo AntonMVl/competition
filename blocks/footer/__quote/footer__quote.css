@@ -1,0 +1,10 @@
+.footer__quote {
+    margin: 0;
+    margin-bottom: 39px;
+    max-width: 186px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #D9DBDE;
+}

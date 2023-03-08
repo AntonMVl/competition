@@ -1,0 +1,14 @@
+.selection__card-text {
+    margin: 0;
+    margin-bottom: 59px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #848FAC;
+    max-width: 384px;
+        
+}
+.selection__card-text:last-child {
+    margin-bottom: 32px;
+}

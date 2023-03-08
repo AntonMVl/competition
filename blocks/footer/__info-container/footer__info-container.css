@@ -1,0 +1,8 @@
+.footer__info-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.footer__info-container:last-child {
+    max-width: 186px;
+}

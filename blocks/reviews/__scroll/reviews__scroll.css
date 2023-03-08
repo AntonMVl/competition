@@ -1,0 +1,6 @@
+.reviews__scroll {
+    max-width: 72px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: nowrap;
+}

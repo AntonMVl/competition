@@ -1,0 +1,9 @@
+.selection {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 80px 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}

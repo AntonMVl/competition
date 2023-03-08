@@ -1,0 +1,8 @@
+.footer__icon {
+    width: 32px;
+    height: 26px;
+}
+.footer__icon:last-child {
+    width: 43.13px;
+    height: 26px;
+}

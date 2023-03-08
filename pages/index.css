@@ -55,5 +55,40 @@
 @import url(../blocks/interior/__image/_grid-area_two/interior__image_grid-area_two.css);
 @import url(../blocks/interior/__image/_grid-area_three/interior__image_grid-area_three.css);
 @import url(../blocks/interior/__image/_grid-area_four/interior__image_grid-area_four.css);
+/*Шестой блок. Выбор дома*/
+@import url(../blocks/selection/selection.css);
+@import url(../blocks/selection/__title/selection__title.css);
+@import url(../blocks/selection/__text/selection__text.css);
+@import url(../blocks/selection/__button/selection__button.css);
+@import url(../blocks/selection/__text-button/selection__text-button.css);
+@import url(../blocks/selection/__choise-table/selection__choise-table.css);
+@import url(../blocks/selection/__choise-card/selection__choise-card.css);
+@import url(../blocks/selection/__card-image/selection__card-image.css);
+@import url(../blocks/selection/__card-title/selection__card-title.css);
+@import url(../blocks/selection/__card-text/selection__card-text.css);
+@import url(../blocks/selection/__card-link/selection__card-link.css);
+/*Седьмой блок. Отзывы*/
+@import url(../blocks/reviews/reviews.css);
+@import url(../blocks/reviews/__title/reviews__title.css);
+@import url(../blocks/reviews/__icon/reviews__icon.css);
+@import url(../blocks/reviews/__text/reviews__text.css);
+@import url(../blocks/reviews/__author/reviews__author.css);
+@import url(../blocks/reviews/__scroll/reviews__scroll.css);
+@import url(../blocks/reviews/__scroll-item/reviews__scroll-item.css);
+/*footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content-name/footer__content-name.css);
+@import url(../blocks/footer/__title/footer-title.css);
+@import url(../blocks/footer/__quote/footer__quote.css);
+@import url(../blocks/footer/__icon-container/footer__icon-container.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__info-container/footer__info-container.css);
+@import url(../blocks/footer/__info-title/footer__info-title.css);
+@import url(../blocks/footer/__lists/footer__lists.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__link/footer__link.css);
+
+
+
 
 
