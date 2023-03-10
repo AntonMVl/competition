@@ -12,3 +12,10 @@
 .selection__card-text:last-child {
     margin-bottom: 32px;
 }
+@media screen and (max-width: 767px) {
+    .selection__card-text {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 12px;
+    }
+}

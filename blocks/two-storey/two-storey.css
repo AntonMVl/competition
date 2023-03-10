@@ -8,6 +8,7 @@
     .two-storey {
         flex-wrap: wrap;
         padding: 30px 30px;
-        gap: 0;
+        row-gap: 0;
+        column-gap: 200px;
     }  
 }

@@ -4,4 +4,10 @@
     display: flex;
     gap: 24px;
     box-sizing: border-box;
+}
+@media screen and (max-width: 767px) {
+    .selection__choise-table {
+        flex-wrap: wrap;
+        padding-top: 30px;
     }
+}

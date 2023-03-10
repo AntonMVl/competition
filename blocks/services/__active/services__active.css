@@ -4,3 +4,13 @@
     display: flex;
     gap: 126px;
 }
+@media screen and (max-width: 767px) {
+    .services__active {
+        flex-wrap: wrap-reverse;
+        gap: 0;
+        column-gap: 200px;
+    }
+    .services__active:last-child {
+        flex-wrap: wrap;
+    }
+}

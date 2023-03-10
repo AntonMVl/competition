@@ -6,3 +6,10 @@
     flex-direction: column;
     gap: 24px;
 }
+@media screen and (max-width: 767px) {
+    .footer__lists {
+        gap: 0;
+        column-gap: 18px;
+        padding-left: 30px;
+    }
+}

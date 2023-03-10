@@ -8,3 +8,9 @@
     box-sizing: border-box;
     justify-content: space-between;
 }
+@media screen and (max-width: 767px) {
+    .footer {
+        padding: 30px;
+        flex-direction: column;
+    }
+}

@@ -5,3 +5,8 @@
     line-height: 150%;
     color: #424F7B; 
 }
+@media screen and (max-width: 767px) {
+    .selection__card-link {
+        font-size: 16px;
+    }
+}
