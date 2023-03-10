@@ -8,3 +8,10 @@
     line-height: 28px;
     color: #D9DBDE;
 }
+@media screen and (max-width: 767px) {
+    .footer__quote {
+        max-width: 100%;
+        margin-bottom: 13px;
+
+    }  
+}

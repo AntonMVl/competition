@@ -3,6 +3,12 @@
     max-width: 587px;
 }
 
+@media screen and (max-width: 1023px) {
+    .cover__info {
+        text-align: center;
+        margin-top: 80px;
+    }   
+}
 @media screen and (max-width: 767px) {
     .cover__info {
         margin-top: 50px;

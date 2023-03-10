@@ -1,3 +1,9 @@
 .services__info_padding_top {
     padding-top: 126px;
 }
+@media screen and (max-width: 1023px) {
+    .services__info_padding_top {
+        padding-top: 0;
+        
+    }  
+}

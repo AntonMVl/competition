@@ -1,8 +1,10 @@
 .two-storey__info {
     margin-top: 111px;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
     .two-storey__info {
+        max-width:587px;
         margin-top: 30px;
+        
     }  
 }

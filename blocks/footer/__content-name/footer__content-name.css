@@ -1,4 +1,8 @@
 .footer__content-name {
     flex-basis: 469px;
-    
+}
+@media screen and (max-width: 767px) {
+    .footer__content-name {
+        flex-basis: content;
+    }  
 }

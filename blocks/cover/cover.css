@@ -1,15 +1,17 @@
 .cover {
     width: 100%;
-    margin: 0 auto;
     padding: 80px 120px 96px 120px;
     box-sizing: border-box;
     display: flex;
     gap: 24px;
 }
 /*адаптив*/
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .cover {
         flex-wrap: wrap-reverse;
+        justify-content: center;
+        padding: 50px 70px;
+        
     }    
 }
 @media screen and (max-width: 767px) {

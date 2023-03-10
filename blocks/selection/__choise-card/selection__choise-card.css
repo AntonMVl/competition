@@ -1,8 +1,5 @@
 .selection__choise-card {
     max-width: max-content;
-}
-/*как я думаю*/
-.selection__choise-card {
     display: flex;
     flex-direction: column;
 }

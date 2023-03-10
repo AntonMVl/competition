@@ -7,8 +7,10 @@
     line-height: 150%;
     color: #848FAC;
     max-width: 384px;
-        
 }
-.selection__card-text:last-child {
-    margin-bottom: 32px;
+
+@media screen and (max-width: 1023px) {
+    .selection__card-text {
+        margin-bottom: 30px;
+    }  
 }

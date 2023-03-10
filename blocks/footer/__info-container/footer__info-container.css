@@ -6,3 +6,9 @@
 .footer__info-container:last-child {
     max-width: 186px;
 }
+@media screen and (max-width: 767px) {
+    .footer__info-container {
+        gap: 10px;
+
+    }  
+}

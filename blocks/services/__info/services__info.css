@@ -1,5 +1,9 @@
 .services__info {
-    
     padding-top: 99px;
     box-sizing: border-box;
+}
+@media screen and (max-width: 1023px) {
+    .services__info {
+        padding-top: 0;
+    }   
 }

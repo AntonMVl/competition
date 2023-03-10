@@ -2,3 +2,9 @@
     display: flex;
     gap: 20px;
 }
+@media screen and (max-width: 767px) {
+    .footer__icon-container {
+        flex-basis: content;
+        justify-content: center;
+    }  
+}
