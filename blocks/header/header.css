@@ -7,10 +7,17 @@
     display: flex;
     justify-content: space-between;
 }
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .header {
         padding: 30px 30px;
     }   
+=======
+@media screen and (max-width: 1024px) {
+    .header {
+        padding: 30px 30px;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }
 @media screen and (max-width: 767px) {
     .header {

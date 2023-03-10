@@ -5,10 +5,19 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+<<<<<<< HEAD
     
 }
 @media screen and (max-width: 1023px) {
     .selection {
         padding: 50px;
     }  
+=======
+}
+@media screen and (max-width: 767px) {
+    .selection {
+        max-width: 320px;
+        padding: 30px;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

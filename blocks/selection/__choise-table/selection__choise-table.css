@@ -4,6 +4,7 @@
     display: flex;
     gap: 24px;
     box-sizing: border-box;
+<<<<<<< HEAD
     }
     @media screen and (max-width: 1023px) {
         .selection__choise-table {
@@ -11,3 +12,12 @@
             justify-content: center;
         }  
     }
+=======
+}
+@media screen and (max-width: 767px) {
+    .selection__choise-table {
+        flex-wrap: wrap;
+        padding-top: 30px;
+    }
+}
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6

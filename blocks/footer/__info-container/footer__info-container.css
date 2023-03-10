@@ -8,7 +8,16 @@
 }
 @media screen and (max-width: 767px) {
     .footer__info-container {
+<<<<<<< HEAD
         gap: 10px;
 
     }  
+=======
+        max-width: 320px;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 0;
+        column-gap: 12px;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

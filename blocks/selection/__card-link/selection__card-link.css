@@ -3,5 +3,15 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 150%;
+<<<<<<< HEAD
     color: #424F7B;
 }
+=======
+    color: #424F7B; 
+}
+@media screen and (max-width: 767px) {
+    .selection__card-link {
+        font-size: 16px;
+    }
+}
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6

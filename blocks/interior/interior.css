@@ -5,9 +5,17 @@
     text-align: center;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .interior {
         padding-top: 50px;
         
     }  
+=======
+@media screen and (max-width: 767px) {
+    .interior {
+        max-width: 320px;
+        padding-top: 0;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

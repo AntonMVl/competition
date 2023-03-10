@@ -2,5 +2,9 @@
     max-width: 120px;
     max-height: 120px;
     margin-bottom: 44px;
-
+}
+@media screen and (max-width: 767px) {
+    .reviews__icon {
+        margin-bottom: 12px;
+    }
 }

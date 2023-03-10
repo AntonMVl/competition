@@ -8,9 +8,22 @@
     color: #848FAC;
     max-width: 384px;
 }
+<<<<<<< HEAD
 
 @media screen and (max-width: 1023px) {
     .selection__card-text {
         margin-bottom: 30px;
     }  
 }
+=======
+.selection__card-text:last-child {
+    margin-bottom: 32px;
+}
+@media screen and (max-width: 767px) {
+    .selection__card-text {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 12px;
+    }
+}
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6

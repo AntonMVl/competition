@@ -4,7 +4,12 @@
 }
 @media screen and (max-width: 767px) {
     .footer__icon-container {
+<<<<<<< HEAD
         flex-basis: content;
         justify-content: center;
     }  
+=======
+        justify-content: center;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

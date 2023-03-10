@@ -4,6 +4,7 @@
     display: flex;
     gap: 126px;
 }
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .services__active {
         gap: 50px;
@@ -15,4 +16,15 @@
         gap: 20px;
         
     }  
+=======
+@media screen and (max-width: 767px) {
+    .services__active {
+        flex-wrap: wrap-reverse;
+        gap: 0;
+        column-gap: 200px;
+    }
+    .services__active:last-child {
+        flex-wrap: wrap;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

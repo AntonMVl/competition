@@ -1,4 +1,5 @@
 .services__image {
+<<<<<<< HEAD
     max-width: 384px;
     max-height: 384px;
     object-fit: cover;
@@ -16,4 +17,14 @@
         max-height: 250px;
         
     }  
+=======
+    max-width: 384px; 
+}
+@media screen and (max-width: 767px) {
+    .services__image {
+        max-width: 260px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

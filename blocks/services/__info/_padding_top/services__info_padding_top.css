@@ -1,9 +1,16 @@
 .services__info_padding_top {
     padding-top: 126px;
 }
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .services__info_padding_top {
         padding-top: 0;
         
     }  
+=======
+@media screen and (max-width: 767px) {
+    .services__info_padding_top {
+        padding-top: 30px;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

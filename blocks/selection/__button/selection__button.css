@@ -4,8 +4,15 @@
     text-align: center;
     margin-bottom: 88px;
 }
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
     .selection__button {
         margin-bottom: 30px;
     }  
+=======
+@media screen and (max-width: 767px) {
+    .selection__button {
+        margin-bottom: 0;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

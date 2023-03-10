@@ -14,3 +14,14 @@
 .interior__image-container {
     grid-template-columns: 3fr 1fr ;
 }
+@media screen and (max-width: 767px) {
+    .interior__image-container {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "item1"
+        "item2"
+        "item3"
+        "item4";
+        gap: 5px;
+    }
+}

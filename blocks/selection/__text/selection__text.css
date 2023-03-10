@@ -9,3 +9,9 @@
     color: #848FAC;
     text-align: center;
 }
+@media screen and (max-width: 767px) {
+    .selection__text {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+}

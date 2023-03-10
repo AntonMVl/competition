@@ -7,10 +7,17 @@
     flex-direction: column;
     gap: 32px;
 }
+<<<<<<< HEAD
 
 @media screen and (max-width: 1023px) {
     .services {
         padding: 50px;
         gap: 15px;
     }  
+=======
+@media screen and (max-width: 767px) {
+    .services {
+        padding: 30px;
+    }
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
 }

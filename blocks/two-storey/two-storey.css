@@ -7,8 +7,14 @@
 @media screen and (max-width: 1023px) {
     .two-storey {
         flex-wrap: wrap;
+<<<<<<< HEAD
         padding: 50px 0;
         gap: 10px;
         justify-content: center;
+=======
+        padding: 30px 30px;
+        row-gap: 0;
+        column-gap: 200px;
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
     }  
 }

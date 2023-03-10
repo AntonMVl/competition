@@ -7,5 +7,9 @@
 /*как я думаю*/
 .selection__card-image {
     width: 100%;
-
+}
+@media screen and (max-width: 767px) {
+    .selection__card-image {
+        margin-bottom: 30px;
+    }
 }

@@ -5,12 +5,23 @@
     display: flex;
     gap: 24px;
 }
+<<<<<<< HEAD
 /*адаптив*/
 @media screen and (max-width: 1023px) {
     .cover {
         flex-wrap: wrap-reverse;
         justify-content: center;
         padding: 50px 70px;
+=======
+@media screen and (max-width: 768px) {
+    .cover {
+        padding: 60px 90px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .cover {
+        flex-wrap: wrap-reverse;
+>>>>>>> 18dcdb803f6a2caa7b0d186ef0ca03eac2954fd6
         
     }    
 }
@@ -18,5 +29,6 @@
     .cover {
         padding: 30px 30px;
         justify-content: center;
+        gap: 100px;
     }    
 }

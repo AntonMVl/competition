@@ -1,7 +1,11 @@
 .cover__img {
-    max-height: 588px;
+    max-width: 180px;
 }
-/*адаптив*/
+@media screen and (max-width: 1024px) {
+    .cover__img {
+        max-width: 130px;
+    }
+}
 @media screen and (max-width: 767px) {
     .cover__img {
         max-width: 103px;
